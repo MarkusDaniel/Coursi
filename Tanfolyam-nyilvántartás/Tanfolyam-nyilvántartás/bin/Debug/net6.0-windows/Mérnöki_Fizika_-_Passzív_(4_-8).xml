@@ -1,0 +1,14 @@
+<Kurzus>
+  <Nev>Mérnöki Fizika</Nev>
+  <KezdetDatuma>2024. 06. 12. 0:00:00</KezdetDatuma>
+  <VegzesDatuma></VegzesDatuma>
+  <KoltsegPerFo>2000,00</KoltsegPerFo>
+  <Aktiv>False</Aktiv>
+  <TanarNev>Fraller Csaba</TanarNev>
+  <Diakok>
+    <Diak>Kocka Márton</Diak>
+    <Diak>Szinusz Dóra</Diak>
+    <Diak>Lyspenics Jánusz</Diak>
+    <Diak>Édes Anna</Diak>
+  </Diakok>
+</Kurzus>

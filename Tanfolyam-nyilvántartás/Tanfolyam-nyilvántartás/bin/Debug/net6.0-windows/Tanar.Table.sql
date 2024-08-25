@@ -1,0 +1,5 @@
+﻿CREATE TABLE Tanar
+(
+	[TanarId] INT NOT NULL PRIMARY KEY,
+	[Nev] NVARCHAR(50) NOT NULL
+)
